@@ -23,7 +23,7 @@
 </p>
 
 
-<p><a href="https://www.twitter.com/<moshoodyahaya_k>"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/<Moshood Yahaya Kolawole>"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/<kola_mooreshould>/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+<p><a href="https://www.twitter.com/moshoodyahaya_k"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/moshood-yahaya-kolawole-50421817b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/kola_mooreshould/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=kolamoshood&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
