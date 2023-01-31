@@ -55,8 +55,10 @@
 ![Figma](https://img.shields.io/badge/Figma%20-%23F05033.svg?&style=for-the-badge&logo=figma&logoColor=white)
 
 
-
-
+- 🔭 I’m currently working on ... https://mishdecoder.000webhostapp.com
+- 🔭 I’ve previously worked on ... https://pixelcreationz.com.ng/ 
+- 👯 I’m looking to collaborate on ... Laravel projects
+- 📫 How to reach me: ... kolawolemoshood7@gmail.com
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting and working with different people</b> so if you want to collaborate or partner with me <b>, I'll be happy to oblige</b> :)</em>
 
